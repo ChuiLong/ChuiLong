@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Algorithm+Enthusiast;Full-Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Chuilong.png?size=200" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
-</div>
-
 ## 🎓 About Me
 
 - 🏫 **University**: Nankai University
