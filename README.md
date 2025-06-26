@@ -61,9 +61,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuilong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chuilong&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
 
 ## 🏆 GitHub Trophies
 
