@@ -8,8 +8,8 @@
 
 - 🏫 **University**: Nankai University
 - 📚 **Major**: Computer Science and Technology
-- 🌱 **Currently Learning**: Advanced Algorithms, System Design, and Modern Web Technologies
-- 💡 **Interests**: Algorithms, Software Engineering, Full-Stack Development
+- 🌱 **Currently Learning**: Anything interesting.
+- 💡 **Interests**: Algorithms, Deep-Learning
 - 🎯 **Goals**: Contributing to open source and building impactful software solutions
 
 ## 🛠️ Tech Stack
