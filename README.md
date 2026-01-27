@@ -65,16 +65,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chuilong&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Chuilong/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chuilong&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/Chuilong/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chuilong&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-</div>
 
 
 
