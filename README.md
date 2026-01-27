@@ -86,10 +86,15 @@
 ## 📫 Connect with Me
 
 <div align="center">
-    <a href="mailto:chuilong_firestar@163.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  <a href="mailto:chuilong_firestar@163.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br/>
+  <a href="mailto:chuilong_firestar@163.com" style="text-decoration:none;">
+    <code>chuilong_firestar@163.com</code>
+  </a>
 </div>
+
 
 
 ## 📊 Profile Views & Analytics
