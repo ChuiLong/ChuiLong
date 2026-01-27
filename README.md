@@ -58,11 +58,6 @@
 </div>
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chuilong&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
 
 ## 📈 Contribution Graph
 
