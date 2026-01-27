@@ -81,34 +81,14 @@
   </a>
 </div>
 
-## 🎯 Current Focus
 
-```python
-class ChengXinghao:
-    def __init__(self):
-        self.name = "Chen Xinghao"
-        self.role = "Computer Science Student"
-        self.university = "Nankai University"
-        self.languages = ["Python", "JavaScript", "TypeScript", "C++", "Java"]
-        self.current_focus = [
-            "Data Structures & Algorithms",
-            "Full-Stack Web Development", 
-            "System Design",
-            "Open Source Contribution"
-        ]
-        self.hobbies = ["Coding", "Problem Solving", "Tech Blogs", "Gaming"]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something amazing together!")
-
-me = ChengXinghao()
-me.say_hi()
-```
 
 ## 📫 Connect with Me
 
 <div align="center">
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chuilong_firestar@163.com)
+    <a href="mailto:chuilong_firestar@163.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
 </div>
 
 
