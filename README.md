@@ -8,8 +8,28 @@
 
 - 🏫 **University**: Nankai University  
 - 📚 **Major**: Computer Science and Technology  
+- 🔬 **Research Interests**:  
+  - Multimodal Large Language Models and Vision-Language Understanding  
+  - 3D Scene Understanding and Reconstruction  
+  - Efficient Inference and System Optimization for Large Language Models  
 
+- 🌱 **Currently Learning**:  
+  - Embodied intelligence and world modeling  
+  - Multimodal learning with vision, language, and 3D data  
+  - Efficient inference for large language models  
+  - Scene representation, environment modeling, and embodied AI-related perception  
 
+- 🎯 **Goals**:  
+  - Contribute to open-source projects in multimodal AI and ML systems  
+  - Build intelligent systems that connect perception, reasoning, and interaction  
+  - Grow as a researcher in multimodal learning, 3D vision, and embodied AI  
+
+## 🎨 Fun Facts
+
+- 🔭 I’m currently focusing on **multimodal learning, vision-language models, and 3D scene understanding**
+- 🌱 I’m actively learning **embodied intelligence, world modeling, and efficient inference for large language models**
+- 👯 I’m looking to collaborate on **multimodal AI, 3D vision, and machine learning systems** projects
+- 💬 Ask me about **deep learning, VLMs, PyTorch, LLM optimization, and ML engineering**
 ## 🛠️ Tech Stack
 
 <div align="center">
